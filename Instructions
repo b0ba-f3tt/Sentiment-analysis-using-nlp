@@ -1,0 +1,1 @@
+To execute the program, first, you have to run settings.py, which will install the Natural Language Toolkit (nltk). This toolkit uses NLP for finding the sentiment. After that, run aimain_nlp.py to execute the program. I have already provided an example text; feel free to edit and use it for your convenience.
